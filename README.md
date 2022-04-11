@@ -5,8 +5,10 @@ My not so first repo
 1. Elso
 2. Masodik
 3. Harmadik
+
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+## Update for a New Branch
